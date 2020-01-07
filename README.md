@@ -1,3 +1,4 @@
 # ExampleCode
 Practice projects
-- Euler Problems
+- [x] Euler Problems
+- [ ] Calculator to come!
