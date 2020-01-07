@@ -16,3 +16,5 @@ for(i=1; i<limit; i++){ //cycle through numbers looking for factor
 }
 
 console.log("The sum of multiples of "+ a +" and "+ b +" to "+ limit +" is "+ sum);
+
+//Hello world
